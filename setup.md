@@ -1,8 +1,8 @@
-## vscode
+## VS Code
 
-The code editor vscode will be used during this tutorial. [Here](https://code.visualstudio.com/download) is the download page from their official site
+The code editor VS Code will be used during this tutorial. [Here](https://code.visualstudio.com/download) is the download page from their official site
 
-## git
+## Git
 
 The git tool will also be used during this tutorial. It comes pre installed on mac devices. If you have a windows pc, click [here](https://gitforwindows.org/) to see the official download link.
 
